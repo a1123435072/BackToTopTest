@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BackToTopTest</string>
+    <string name="scale_behavior">com.itheima.backtotoptest.ScaleBehavior</string>
+</resources>
